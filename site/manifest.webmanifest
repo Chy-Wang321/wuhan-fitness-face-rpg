@@ -1,0 +1,14 @@
+{
+  "name": "武汉身材与颜面RPG",
+  "short_name": "身材颜面RPG",
+  "description": "16周减脂、增肌、体能、饮食与皮肤管理系统",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f3ee",
+  "theme_color": "#163a34",
+  "lang": "zh-CN",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
