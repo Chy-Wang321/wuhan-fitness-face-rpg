@@ -1,0 +1,17 @@
+window.EXG={
+  '高脚杯深蹲或腿举':{equipment:'哑铃/壶铃或腿举机',start:'双脚略宽于肩，脚尖微外，哑铃贴近胸前。',move:'臀部向后下坐，膝盖跟随脚尖，脚掌压地站起。',cues:['胸口朝前，背部自然直','膝盖不要向内扣','只蹲到还能稳定的位置'],breath:'下蹲吸气，站起呼气',mistakes:'脚跟抬起、膝内扣、弓腰。',alternative:'坐到高凳再站起；或使用腿举机。',startLoad:'6',increment:2,video:'高脚杯深蹲 标准动作'},
+  '哑铃卧推或器械推胸':{equipment:'平凳+哑铃或推胸机',start:'脚踩稳，肩胛骨向后下夹紧。',move:'肘约30—45°，向上推至接近伸直，再慢慢下降。',cues:['肩膀不要耸起','腰部保持自然弧度','下降控制2秒'],breath:'下降吸气，推起呼气',mistakes:'肘张太开、肩膀前顶。',alternative:'器械推胸或高位斜板俯卧撑。',startLoad:'5',increment:1,video:'哑铃卧推 标准动作'},
+  '坐姿划船':{equipment:'坐姿划船机',start:'胸口抬起，手臂前伸但肩膀不耸。',move:'先收肩胛骨，再把肘部拉向腰侧。',cues:['肘部向身后走','身体不要摇摆','末端停半秒'],breath:'拉时呼气，回程吸气',mistakes:'耸肩、用腰猛甩。',alternative:'弹力带坐姿划船。',startLoad:'20',increment:2.5,video:'坐姿划船 标准动作'},
+  '罗马尼亚硬拉':{equipment:'一对哑铃',start:'双脚与髋同宽，膝微屈，哑铃贴大腿。',move:'臀部向后推，哑铃沿腿下降；大腿后侧有拉伸后夹臀站起。',cues:['这是屁股向后的动作，不是深蹲','哑铃始终靠近腿','只降到腰背还能稳定的位置'],breath:'下降吸气，站起呼气',mistakes:'弓腰、蹲得太深、哑铃离腿太远。',alternative:'徒手髋铰链，臀部向后碰墙。',startLoad:'6',increment:2,video:'哑铃罗马尼亚硬拉 标准动作'},
+  '平板支撑':{equipment:'瑜伽垫',start:'肘在肩正下方，脚尖着地，身体成直线。',move:'收紧腹部和臀部，保持正常呼吸。',cues:['肋骨向下收，不塌腰','臀部不要抬太高','眼睛看地面'],breath:'全程正常呼吸，不憋气',mistakes:'塌腰、撅臀、憋气。',alternative:'膝盖着地平板或靠墙平板。',startLoad:'0',increment:0,video:'平板支撑 标准动作'},
+  '分腿蹲':{equipment:'徒手或哑铃',start:'一脚前一脚后，站距约一大步。',move:'身体垂直下沉，后膝靠近地面，用前脚站起。',cues:['前膝跟随脚尖','重心主要在前腿','先扶固定物保持平衡'],breath:'下降吸气，站起呼气',mistakes:'步距太窄、身体晃、膝盖内扣。',alternative:'扶柱分腿蹲或低台阶踏步。',startLoad:'0',increment:1,video:'分腿蹲 标准动作'},
+  '高位下拉':{equipment:'高位下拉机',start:'大腿固定，双手略宽于肩，胸口轻抬。',move:'肩膀先下沉，再把肘部向下拉，杠到上胸附近。',cues:['想象肘部放进口袋','不要把杠拉到颈后','身体只需轻微后倾'],breath:'下拉呼气，回程吸气',mistakes:'大幅后仰、耸肩、拉到颈后。',alternative:'窄握下拉或弹力带下拉。',startLoad:'20',increment:2.5,video:'高位下拉 标准动作'},
+  '肩推':{equipment:'哑铃或肩推机',start:'背靠椅背，肋骨收住，哑铃位于肩侧。',move:'向上推至接近伸直，再控制下降到耳朵附近。',cues:['腹部收紧，不要折腰','前臂尽量垂直','肩膀远离耳朵'],breath:'推起呼气，下降吸气',mistakes:'腰部过度反弓、耸肩。',alternative:'器械肩推。',startLoad:'4',increment:1,video:'哑铃肩推 标准动作'},
+  '臀推':{equipment:'长凳，可加哑铃',start:'肩胛下缘靠凳，双脚踩地。',move:'夹臀把髋部推到躯干接近水平，再控制下降。',cues:['顶端靠臀部发力','膝盖不要内扣','顶端停1秒'],breath:'推起呼气，下降吸气',mistakes:'腰椎过伸、只抬胸不抬髋。',alternative:'地面臀桥。',startLoad:'10',increment:2.5,video:'臀推 标准动作'},
+  'Dead bug':{equipment:'瑜伽垫',start:'仰卧，髋膝90°，双臂指向天花板。',move:'保持腰不离地，对侧手臂和腿慢慢伸远。',cues:['以腰不拱起为准','动作放慢','先呼气收紧腹部'],breath:'伸展时缓慢呼气',mistakes:'腰拱起、动作过快。',alternative:'只动腿或只动手。',startLoad:'0',increment:0,video:'dead bug 死虫式 标准动作'},
+  '腿举':{equipment:'腿举机',start:'腰背贴靠垫，双脚与肩同宽放踏板中部。',move:'屈膝下降到腰背仍贴垫，再用全脚掌推回。',cues:['膝盖沿脚尖方向','顶部不锁膝','腰背始终贴垫'],breath:'下降吸气，推起呼气',mistakes:'膝内扣、腰部卷起、下降过深。',alternative:'减轻重量和下降幅度。',startLoad:'20',increment:5,video:'腿举机 标准动作'},
+  '上斜哑铃卧推':{equipment:'上斜凳+哑铃',start:'凳背20—30°，脚踩稳，肩胛后下收紧。',move:'哑铃从上胸两侧推向上方，再控制下降。',cues:['角度不要过高','肘约30—45°','肩膀不要前顶'],breath:'下降吸气，推起呼气',mistakes:'凳子过直、腰过度反弓。',alternative:'上斜器械推胸。',startLoad:'5',increment:1,video:'上斜哑铃卧推 标准动作'},
+  '单臂划船':{equipment:'哑铃+长凳',start:'一手一膝支撑凳面，背部平直。',move:'把哑铃沿身体拉向髋部，再控制放下。',cues:['肩膀不要旋转','肘部向髋部拉','腰背不扭动'],breath:'拉起呼气，放下吸气',mistakes:'身体旋转、耸肩、用惯性甩。',alternative:'胸托划船机。',startLoad:'7',increment:1,video:'单臂哑铃划船 标准动作'},
+  '腿弯举':{equipment:'腿弯举机',start:'膝关节与机器转轴对齐，滚垫贴脚踝上方。',move:'弯曲膝盖把滚垫拉向身体，再慢慢放回。',cues:['臀部贴住座椅','不要弹回','用完整舒适幅度'],breath:'弯曲呼气，回程吸气',mistakes:'臀部抬起、重量过大。',alternative:'减轻重量。',startLoad:'15',increment:2.5,video:'腿弯举机 标准动作'},
+  '侧平举':{equipment:'轻哑铃',start:'站稳，肘微屈，哑铃在身体两侧略靠前。',move:'双臂向侧上方抬至接近肩高，再慢慢下降。',cues:['用肘部带动','肩膀不要耸起','重量宁轻勿甩'],breath:'抬起呼气，下降吸气',mistakes:'身体摇摆、耸肩、抬得过高。',alternative:'单臂扶物侧平举。',startLoad:'2',increment:1,video:'哑铃侧平举 标准动作'}
+};
